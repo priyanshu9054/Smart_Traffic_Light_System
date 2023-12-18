@@ -7,7 +7,7 @@ Requirements
 ultralytics/YOLOv8
 Python 3.x
 OpenCV
-Traffic camera or webcam
+webcam
 
 Download YOLOv8 Pre-trained Weights:
 
